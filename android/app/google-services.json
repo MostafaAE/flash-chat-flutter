@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911227842421",
+    "project_id": "flash-chat-b0ffc",
+    "storage_bucket": "flash-chat-b0ffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911227842421:android:c8b6f066f512cd60836d3c",
+        "android_client_info": {
+          "package_name": "com.MostafaAE.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911227842421-pj9n5f27brlmrisrcjf4c0ggsi65eari.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCua6h_PUtsiPL32_5SJ5nHG2h4gZcS0d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911227842421-pj9n5f27brlmrisrcjf4c0ggsi65eari.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
